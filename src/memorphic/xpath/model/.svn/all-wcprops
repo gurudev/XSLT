@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/53/trunk/src/memorphic/xpath/model
+END
+Operators.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26/trunk/src/memorphic/xpath/model/Operators.as
+END
+NameTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/49/trunk/src/memorphic/xpath/model/NameTest.as
+END
+FunctionCall.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/src/memorphic/xpath/model/FunctionCall.as
+END
+FilterExpr.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/16/trunk/src/memorphic/xpath/model/FilterExpr.as
+END
+LocationPath.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26/trunk/src/memorphic/xpath/model/LocationPath.as
+END
+NodeTypeTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/src/memorphic/xpath/model/NodeTypeTest.as
+END
+AxisNames.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/src/memorphic/xpath/model/AxisNames.as
+END
+XPathContext.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/53/trunk/src/memorphic/xpath/model/XPathContext.as
+END
+StandardFunctions.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/src/memorphic/xpath/model/StandardFunctions.as
+END
+PathExpr.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/18/trunk/src/memorphic/xpath/model/PathExpr.as
+END
+PredicateList.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26/trunk/src/memorphic/xpath/model/PredicateList.as
+END
+INodeTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/src/memorphic/xpath/model/INodeTest.as
+END
+SimplePositionPredicate.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26/trunk/src/memorphic/xpath/model/SimplePositionPredicate.as
+END
+Predicate.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/src/memorphic/xpath/model/Predicate.as
+END
+StandardNamespaces.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26/trunk/src/memorphic/xpath/model/StandardNamespaces.as
+END
+Axis.as
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/trunk/src/memorphic/xpath/model/Axis.as
+END
+VariableReference.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/src/memorphic/xpath/model/VariableReference.as
+END
+BinaryOperation.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/src/memorphic/xpath/model/BinaryOperation.as
+END
+PrimitiveValue.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26/trunk/src/memorphic/xpath/model/PrimitiveValue.as
+END
+IExpression.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/src/memorphic/xpath/model/IExpression.as
+END
+QueryRoot.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/51/trunk/src/memorphic/xpath/model/QueryRoot.as
+END
+TypeConversions.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/src/memorphic/xpath/model/TypeConversions.as
+END
+NodeTypes.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/34/trunk/src/memorphic/xpath/model/NodeTypes.as
+END
+Step.as
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/18/trunk/src/memorphic/xpath/model/Step.as
+END

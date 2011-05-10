@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/38/trunk/src/memorphic/xpath/parser
+END
+XPathTokenizer.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/36/trunk/src/memorphic/xpath/parser/XPathTokenizer.as
+END
+XPathParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/38/trunk/src/memorphic/xpath/parser/XPathParser.as
+END
+QNameToken.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/src/memorphic/xpath/parser/QNameToken.as
+END
+XPathToken.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/src/memorphic/xpath/parser/XPathToken.as
+END
+XPathSyntaxTree.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/18/trunk/src/memorphic/xpath/parser/XPathSyntaxTree.as
+END

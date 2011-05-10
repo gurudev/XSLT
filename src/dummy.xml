@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+	<record><name>deva</name><ruby>diamond</ruby><mail>utada_shinsuke@example.com</mail><sex>M</sex><age>65</age><birthday>1944/1/1</birthday><married>No</married><bloodtype>Aa</bloodtype><prefecture>yes</prefecture><curry>ah</curry></record>
+	<record><name>raj</name><ruby>diamond</ruby><mail>utada_shinsuke@example.com</mail><sex>M</sex><age>65</age><birthday>1944/1/1</birthday><married>Yes</married><bloodtype>Aa</bloodtype><prefecture>yes</prefecture><curry>ah</curry></record>
+</records>

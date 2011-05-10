@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Application xmlns:fx="http://ns.adobe.com/mxml/2009" 
+			   xmlns:s="library://ns.adobe.com/flex/spark" 
+			   xmlns:mx="library://ns.adobe.com/flex/mx" minWidth="955" minHeight="600" xmlns:xslt="me.rkome.da.xslt.*" xmlns:elements="me.rkome.da.xslt.elements.*">
+	<fx:Declarations>
+		<xslt:MEXSLT id="parser" output="array">
+			<xslt:xslt>
+				<elements:Template match="records/record">
+					<elements:New method="push" product="{DummyData}">
+						<elements:ValueOf select="name" target="name" />
+						<elements:ValueOf select="ruby" target="ruby" />
+						<elements:ValueOf select="mail" target="mail" />
+						<elements:ValueOf select="sex" target="sex" />
+						<elements:ValueOf select="age" target="age" />
+						<elements:ValueOf select="birthday" target="setBirthday" method="invoke" />
+						<elements:ValueOf select="married" target="setMarried" method="invoke" />
+						<elements:ValueOf select="bloodtype" target="bloodType" />
+						<elements:ValueOf select="prefecture" target="prefecture" />
+						<elements:ValueOf select="curry" target="curry" />
+					</elements:New>
+				</elements:Template>
+			</xslt:xslt>
+		</xslt:MEXSLT>
+	</fx:Declarations>
+	<fx:Script>
+		<![CDATA[
+			import com.adams.model.vo.DummyData;
+			private function onClick():void
+			{
+				btnRead.enabled = false;
+				
+				var loader:URLLoader = new URLLoader();
+				loader.addEventListener(Event.COMPLETE, function (evt:Event):void {
+					var result:Array = parser.parse(new XML(loader.data));
+					for each (var data:DummyData in result)
+					{
+						trace( data.married);
+					}
+					btnRead.enabled = true;
+				});
+				loader.load(new URLRequest("dummy.xml"));
+			}
+			
+		]]>
+	</fx:Script>
+	<s:Button id="btnRead" x="10" y="10" label="XML" click="onClick()"/>
+</s:Application>
